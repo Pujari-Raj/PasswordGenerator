@@ -1,4 +1,4 @@
-## This is Accordion App which was given as task in FSJSBootcamp.
+## This is Password Generator App which was given as task in FSJSBootcamp.
 
 
 Technologies/ Tools Used:
